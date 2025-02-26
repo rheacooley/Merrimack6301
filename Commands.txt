@@ -1,0 +1,14 @@
+Compilation:
+
+javac JamesCooleyMod5Proj1.java
+
+
+Execution:
+
+java JamesCooleyMod5Proj1
+
+
+
+Javadoc Generation:
+
+javadoc -d doc JamesCooleyMod5Proj1.java
