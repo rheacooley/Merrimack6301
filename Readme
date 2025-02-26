@@ -48,10 +48,10 @@ To contribute:
 5. Create a pull request.
 
 ## License
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Merrimack College - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or contributions, reach out via [email/contact information]." > README.md
+For any questions or contributions, reach out via email to cooleyj@merrimack.edu > README.md
 
 git add README.md
 git commit -m "Added README file"
